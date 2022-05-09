@@ -1,1 +1,1 @@
-# kde-plasma-configurations
+# KDE Plasma Configuration
