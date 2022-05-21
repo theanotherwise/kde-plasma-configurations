@@ -1,4 +1,3 @@
-```bash
 konsole --new-tab --profile "TheAnotherWise" -p tabtitle="upgrade (helm)" -e /bin/bash
 konsole --new-tab --profile "TheAnotherWise" -p tabtitle="apply (terra)" -e /bin/bash
 konsole --new-tab --profile "TheAnotherWise" -p tabtitle="git" -e /bin/bash
@@ -19,4 +18,3 @@ konsole --new-tab --profile "TheAnotherWise" -p tabtitle="logs 0 (kube)" -e /bin
 konsole --new-tab --profile "TheAnotherWise" -p tabtitle="desc 0 (kube)" -e /bin/bash
 konsole --new-tab --profile "TheAnotherWise" -p tabtitle="desc 0 (kube)" -e /bin/bash
 konsole --new-tab --profile "TheAnotherWise" -p tabtitle="desc 0 (kube)" -e /bin/bash
-```
