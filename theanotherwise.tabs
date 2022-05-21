@@ -1,0 +1,15 @@
+title: upgrade (helm);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: git;; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+
+title: exec I (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: logs I (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: describe I (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+
+title: exec II (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: logs II (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: describe II (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+
+title: get pods (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: get svc (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: get ingress (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: get pvc (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
