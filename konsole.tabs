@@ -1,20 +1,25 @@
+# Apply
 title: upgrade (helm);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: apply (terra);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: git;; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 
+# Watch Kuberentes
 title: pods (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: svc (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: ingress (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: pvc (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 
+# Kubectl Exec
 title: exec 0 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: exec 1 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: exec 2 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 
+# Kubectl logs
 title: logs 0 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: logs 1 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: logs 2 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 
+# Kubectl describe
 title: desc 0 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: desc 1 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: desc 2 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
