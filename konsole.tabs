@@ -1,16 +1,20 @@
 title: upgrade (helm);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
-title: terraform;; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: apply (terra);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 title: git;; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 
-title: get pods (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
-title: get svc (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
-title: get ingress (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
-title: get pvc (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: pods (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: svc (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: ingress (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: pvc (watch);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 
-title: exec I (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
-title: logs I (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
-title: describe I (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: exec 0 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: exec 1 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: exec 2 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
 
-title: exec II (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
-title: logs II (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
-title: describe II (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: logs 0 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: logs 1 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: logs 2 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+
+title: desc 0 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: desc 1 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
+title: desc 2 (kube);; command: /bin/bash;; workdir: /home/taw;; profile: TheAnotherWise
