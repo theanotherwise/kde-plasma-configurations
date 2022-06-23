@@ -1,13 +1,11 @@
-title: apply (terra)    ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
 title: git              ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
-title: upgrade (helm)   ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
+title: docker ps-a      ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
 
-title: desc             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
-title: exec             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
 title: logs (0)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
 title: logs (1)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
 title: logs (2)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
 
+title: WORKSPACE        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
 title: WORKSPACE        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
 title: WORKSPACE        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash
 
