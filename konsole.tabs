@@ -17,4 +17,4 @@ title: get pods         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; c
 title: get svc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get svc
 title: get ingress      ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get ingress
 title: get pvc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get pvc
-title: get pvc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: docker ps -a
+title: get pvc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 docker ps -a
