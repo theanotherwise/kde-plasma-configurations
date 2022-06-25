@@ -1,9 +1,13 @@
 title: git              ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: docker ps-a      ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+
+title: helm (1)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: helm (0)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
 
 title: logs (0)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
 title: logs (1)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
 title: logs (2)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: logs (3)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: logs (4)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
 
 title: WORKSPACE        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
 title: WORKSPACE        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
@@ -13,3 +17,4 @@ title: get pods         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; c
 title: get svc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get svc
 title: get ingress      ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get ingress
 title: get pvc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get pvc
+title: get pvc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: docker ps -a
