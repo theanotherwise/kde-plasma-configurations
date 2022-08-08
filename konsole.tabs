@@ -1,19 +1,13 @@
-title: git (0)          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: git (1)          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: helm list        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 helm list -a
+title: logs             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: logs             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: logs             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
 
-title: helm (0)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: helm (1)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: helm (2)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-
-title: logs (0)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: logs (1)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: logs (2)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: logs (3)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: logs (4)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-
-title: WORKSPACE        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: WORKSPACE        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: WORKSPACE        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: SPACE            ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: SPACE            ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: SPACE            ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: SPACE            ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: SPACE            ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
 
 title: get pods         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get pods
 title: get svc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get svc
