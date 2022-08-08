@@ -1,4 +1,7 @@
 title: helm list        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 helm list -a
+
+title: logs             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: logs             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
 title: logs             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
 title: logs             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
 title: logs             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
@@ -13,4 +16,5 @@ title: get pods         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; c
 title: get svc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get svc
 title: get ingress      ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get ingress
 title: get pvc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get pvc
+
 title: docker ps -a     ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 docker ps -a
