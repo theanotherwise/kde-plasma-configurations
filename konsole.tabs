@@ -1,22 +1,20 @@
-title: helm list        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 helm list -a
+title: NS (google.com)   ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 dig google.com
+title: ICMP (google.com) ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: ping -s 1 google.com
+title: /etc/hosts        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 cat /etc/hosts
 
-title: logs(0)          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: logs(1)          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: logs(2)          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: logs(3)          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: logs(4)          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: docker ps -a      ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 docker ps -a
+title: helm list         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 helm list -a
 
-title: SPACE(0)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: SPACE(1)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: SPACE(2)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: SPACE(3)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
-title: SPACE(4)         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: SPACE             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: SPACE             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: SPACE             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: SPACE             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
+title: SPACE             ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: /bin/bash -l
 
-title: get pods         ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get pods
-title: get sts          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get sts
-title: get deploy       ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get deployments
-title: get pvc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get pvc
-title: get svc          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get svc
-title: get ingress      ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get ingress
-
-title: docker ps -a     ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 docker ps -a
+title: get pods          ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get pods
+title: get sts           ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get sts
+title: get deploy        ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get deployments
+title: get pvc           ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get pvc
+title: get sc            ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get sc
+title: get svc           ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get svc
+title: get ingress       ;; workdir: /home/taw   ;; profile: TheAnotherWise  ;; command: watch -n 1 kubectl get ingress
