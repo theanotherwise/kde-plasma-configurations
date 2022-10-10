@@ -1,4 +1,4 @@
-`command`
+`Command`
 
 ```bash
 /bin/bash -l
