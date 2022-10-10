@@ -4,7 +4,7 @@
 /bin/bash -l
 ```
 
-### Tabs
+`Tabs`
 
 ```bash
 konsole --tabs-from-file konsole.tabs --profile  TheAnotherWise
