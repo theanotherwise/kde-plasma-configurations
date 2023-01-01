@@ -33,4 +33,4 @@ EndSection
 options i915 enable_psr=0
 ```
 
-```
+---
