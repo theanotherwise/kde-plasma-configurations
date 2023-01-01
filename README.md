@@ -8,6 +8,8 @@ qdbus org.kde.plasmashell /PlasmaShell evaluateScript "lockCorona(true)"
 qdbus org.kde.plasmashell /PlasmaShell evaluateScript "lockCorona(false)"
 ```
 
+---
+
 `/etc/X11/xorg.conf`
 
 ```bash
@@ -23,4 +25,12 @@ Section "Screen"
     Identifier      "intel"
     Device          "intel"
 EndSection
+```
+
+`/etc/modprobe.d/i915.conf`
+
+```bash
+options i915 enable_psr=0
+```
+
 ```
