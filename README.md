@@ -2,13 +2,15 @@
 konsole --tabs-from-file konsole.tabs --profile  TheAnotherWise
 ```
 
+## KDE Plasma Widgets
+
 ```bash
 qdbus org.kde.plasmashell /PlasmaShell evaluateScript "lockCorona(true)"
 
 qdbus org.kde.plasmashell /PlasmaShell evaluateScript "lockCorona(false)"
 ```
 
----
+## Intel as Display, NVIDIA for Cuda
 
 `/etc/X11/xorg.conf`
 
@@ -32,5 +34,3 @@ EndSection
 ```bash
 options i915 enable_psr=0
 ```
-
----
