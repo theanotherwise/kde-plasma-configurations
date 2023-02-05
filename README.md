@@ -12,13 +12,9 @@ qdbus org.kde.plasmashell /PlasmaShell evaluateScript "lockCorona(false)"
 
 ## Intel as Display, NVIDIA for Cuda
 
-### Prime Select
-
 ```bash
 prime-select on-demand
 ```
-
-### Force Xorg to use Intel
 
 `/etc/X11/xorg.conf`
 
@@ -35,10 +31,4 @@ Section "Screen"
     Identifier      "intel"
     Device          "intel"
 EndSection
-```
-
-`/etc/modprobe.d/i915.conf`
-
-```bash
-options i915 enable_psr=0
 ```
