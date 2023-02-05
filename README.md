@@ -12,7 +12,7 @@ qdbus org.kde.plasmashell /PlasmaShell evaluateScript "lockCorona(false)"
 
 ## Intel as Display, NVIDIA for Cuda
 
-### Select
+### Prime Select
 
 ```bash
 prime-select on-demand
