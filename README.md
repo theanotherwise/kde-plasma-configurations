@@ -12,6 +12,14 @@ qdbus org.kde.plasmashell /PlasmaShell evaluateScript "lockCorona(false)"
 
 ## Intel as Display, NVIDIA for Cuda
 
+### Select
+
+```bash
+prime-select on-demand
+```
+
+### Force Xorg to use Intel
+
 `/etc/X11/xorg.conf`
 
 ```bash
