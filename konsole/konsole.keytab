@@ -88,12 +88,13 @@ key Right+Ctrl                          : "\E[1;*C"
 key Up+Shift                            : scrollLineUp
 key Down+Shift                          : scrollLineDown
 
-key PgUp+Shift-AppScreen                : scrollPageUp
-key PgUp-Shift+KeyPad                   : "\E[5~"
-key PgDown-Shift                        : "\E[5~"
-key PgDown+Shift-AppScreen              : scrollPageDown
-key PgDown-Shift+KeyPad                 : "\E[6~"
 key PgUp-Shift                          : "\E[6~"
+key PgUp-Shift+KeyPad                   : "\E[6~"
+key PgUp+Shift-AppScreen                : scrollPageUp
+
+key PgDown-Shift                        : "\E[5~"
+key PgDown-Shift+KeyPad                 : "\E[5~"
+key PgDown+Shift-AppScreen              : scrollPageDown
 
 key Home+Shift-AppScreen                : scrollUpToTop
 key End+Shift-AppScreen                 : scrollDownToBottom
