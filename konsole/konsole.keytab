@@ -1,23 +1,5 @@
 keyboard "TheAnotherWise"
 
-##    Konsole Scroll
-# Shift + Up      (or NumPad 8)
-# Shift + Down    (or NumPad 2)
-# Shift + PgUp    (or NumPad 9)
-# Shift + PgDown  (or NumPad 3)
-# Shift + Home    (or NumPad 7)
-# Shift + End     (or NumPad 1)
-# 
-##    Interactive Scroll (NumPad Off)
-# Up      (or Numpad 8)
-# Down    (or Numpad 2)
-# Left    (or Numpad 4)
-# Right   (or Numpad 6)
-# PgUp    (or Numpad 9)
-# PgDown  (or Numpad 3)
-# Home    (or Numpad 7)
-# End     (or Numpad 1)
-
 key Escape                              : "\E"
 key Space+Control                       : "\x00"
 
