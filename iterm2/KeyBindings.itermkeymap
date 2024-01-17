@@ -1,0 +1,77 @@
+{
+  "Key Mappings": {
+    "0x51-0x120000-0xc": {
+      "Version": 1,
+      "Action": 27,
+      "Text": "0192BE0B-EE0F-42B0-855F-896B131A4C9D",
+      "Label": ""
+    },
+    "0x57-0x120000-0xd": {
+      "Version": 1,
+      "Action": 26,
+      "Text": "0192BE0B-EE0F-42B0-855F-896B131A4C9D",
+      "Label": ""
+    },
+    "0xf72b-0x20000-0x77": {
+      "Version": 1,
+      "Action": 4,
+      "Text": "",
+      "Label": ""
+    },
+    "0xf72c-0x20000-0x74": {
+      "Version": 1,
+      "Action": 9,
+      "Text": "",
+      "Label": ""
+    },
+    "0xf729-0x20000-0x73": {
+      "Version": 1,
+      "Action": 5,
+      "Text": "",
+      "Label": ""
+    },
+    "0xf703-0x220000-0x7c": {
+      "Version": 0,
+      "Action": 0,
+      "Text": "",
+      "Label": ""
+    },
+    "0xf72d-0x20000-0x79": {
+      "Version": 1,
+      "Action": 8,
+      "Text": "",
+      "Label": ""
+    },
+    "0xf700-0x220000-0x7e": {
+      "Version": 1,
+      "Action": 7,
+      "Text": "",
+      "Label": ""
+    },
+    "0xf703-0x320000-0x7c": {
+      "Version": 1,
+      "Action": 34,
+      "Text": "",
+      "Label": ""
+    },
+    "0xf701-0x220000-0x7d": {
+      "Version": 1,
+      "Action": 6,
+      "Text": "",
+      "Label": ""
+    },
+    "0xf702-0x320000-0x7b": {
+      "Version": 1,
+      "Action": 33,
+      "Text": "",
+      "Label": ""
+    },
+    "0xf702-0x220000-0x7b": {
+      "Version": 1,
+      "Action": 2,
+      "Text": "",
+      "Label": ""
+    }
+  },
+  "Touch Bar Items": {}
+}
