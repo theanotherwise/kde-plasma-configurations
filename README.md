@@ -1,4 +1,4 @@
-```bash
+```bashhttps://github.com/theanotherwise/workspace/blob/plasma/README.md
 konsole --tabs-from-file konsole.tabs --profile  TheAnotherWise
 ```
 
@@ -32,3 +32,10 @@ Section "Screen"
     Device          "intel"
 EndSection
 ```
+
+## MacOS
+
+### Override Basics
+
+![Screenshot 2024-01-17 at 22 45 37](https://github.com/theanotherwise/workspace/assets/9096064/67805a9a-3106-49ad-b5f2-329a87ff17fe)
+
